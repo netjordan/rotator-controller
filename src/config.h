@@ -3,8 +3,8 @@
 #define PIN_ROT_CW PIN_F1
 #define PIN_ROT_UP PIN_F4
 #define PIN_ROT_DOWN PIN_F5
-#define PIN_POS_ELE PIN_F6
-#define PIN_POS_AZI PIN_F7
+#define PIN_POS_ELE PIN_F7
+#define PIN_POS_AZI PIN_F6
 
 // pin config for lcd screen
 #define PIN_LCD_RS PIN_C7
