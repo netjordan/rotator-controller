@@ -26,10 +26,10 @@
 #define SERIAL_BAUD 9600
 
 // demo mode
-//#define DEMO_MODE
+#define DEMO_MODE
 
 // enable lcd
 #define LCD_ENABLED
 
 // enable debugging?
-#define DEBUG
+//#define DEBUG

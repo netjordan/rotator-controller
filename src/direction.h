@@ -1,0 +1,1 @@
+char azimuth_to_direction(int azimuth_in);
